@@ -1,0 +1,8 @@
+.App {
+    text-align: center;
+    font-size: 25px; 
+  }
+  
+ .App-Header{
+    border: 1px solid var(--color4);
+ }  
